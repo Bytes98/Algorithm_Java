@@ -1,4 +1,4 @@
-package Tencent;//import java.awt.*;
+package Else.Tencent;//import java.awt.*;
 import java.util.*;
 
 public class MyQueue{
